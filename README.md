@@ -1,4 +1,3 @@
-# Complete-One
 # Presenting MEDCARE website
 ## MEDCARE #Complete-One
 
