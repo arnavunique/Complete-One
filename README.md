@@ -1,6 +1,6 @@
 # Complete-One
 # Presenting MEDCARE website
-## MEDCARE ##Complete-One
+## MEDCARE #Complete-One
 
 ## Table of contents
 * [General info](#general-info)
